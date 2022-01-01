@@ -97,6 +97,10 @@ hr{
     right: 12.5%;
     top: 2.5%;
 }
+.mountain{
+    width: 60%;
+    height: 60%;
+}
 .bottom-cloud{
     position: absolute;
     left: 12.5%;
