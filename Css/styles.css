@@ -1,8 +1,12 @@
 body{
-     min-width: 640px;
+ min-width: 640px;
     min-width: 768px;
     min-width: 1024;
     min-width: 1200px;
+    min-width: 600px;
+    min-width: 992px;
+     
+
     color: #40514E;
     margin:0;
     text-align: center;
