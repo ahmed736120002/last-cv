@@ -8,7 +8,7 @@ body{
 h1{
     color:   black;
     font-size: 5.625rem;
-     margin: 50px auto 0 auto;
+     margin: 3.125% auto 0 auto;
     font-family: 'Sacramento', cursive;
    /* width: 20;
          margin: 0 auto; لاننا وضعنا قيمة لل اتش وان وكي يكون العنوان في النص*/
@@ -18,7 +18,7 @@ h2{
     font-family: 'Merriweather', serif;
     font-size: 2.5rem;
     font-weight: normal;
-    padding-bottom: 10px;
+    padding-bottom: 0.625%;
 }
 h3{
     font-family: 'Montserrat', sans-serif;
@@ -30,7 +30,7 @@ p{
 a{
     color:#11999E ;
     font-family: 'Merriweather', serif;
-    margin: 10px 20px;
+    margin: 0.625% 1.25%;
     text-decoration: none;
 }
 a:hover{
@@ -40,20 +40,20 @@ hr{
     border: dotted #EAF6F6 6px;
     border-bottom: none;
     width: 4%;
-    margin: 100px auto;
+    margin: 6.25% auto;
 }
 
 .top-container{
     background-color:#7CD1B8;
     position: relative;
-    padding-top: 100px;;
+    padding-top: 6.25%;
    /* width: 200px;
     height: 200px;
    border: solid 10px;
    padding: 20px;*/
 }
 .middle-container{
-    margin: 100px 0;
+    margin: 6.25% ;
 
    }
    .ahmed-img{
@@ -74,7 +74,7 @@ hr{
 }*/
 .bottom-container{
     background-color:#66BFBF;
-    padding:50px 0 20px ;
+    padding: 3.125% 0 1.25% ;
   /*  width: 200px;
     height: 200px;
  left: 200px;
@@ -89,42 +89,42 @@ hr{
     text-decoration:underline ;
    
   font-weight: normal;
-  line-height: 2px;
+  line-height: 0.125%;
 
 }
 .top-cloud{
     position: absolute;
-    right: 200px;
-    top: 40px;
+    right: 12.5%;
+    top: 2.5%;
 }
 .bottom-cloud{
     position: absolute;
-    left: 200px;
-    bottom: 300px;
+    left: 12.5%;
+    bottom: 18.75%;
 }
 .computer1{
     border-radius: 100%; 
     width: 25%;
     float: left;
-    margin-right: 30px;
+    margin-right: 1.857%;
 }
 .computer2{
     border-radius: 100%;
     width: 25%;/*حجم الصورة */
     float: right;/*يضع النص على يسار الصورة */
-    margin-left: 30px;/*مسافه بين الصورة والنص */
+    margin-left: 1.857%;/*مسافه بين الصورة والنص */
    
    
 }
 .skill-row{
    width: 50%;
-   margin:100px auto 100px auto;/*المسافة بين الدف والدف الذي بعده*/
+   margin:6.25% auto 6.25% auto;/*المسافة بين الدف والدف الذي بعده*/
    text-align: left;/*يضع النص على يسار  */
   
 }
 .contact-message{
     width: 40%;
-    margin: 40px auto 60px;
+    margin: 2.5% auto 3.75%;
 }
 .btn {
     background: #11cdd4;
@@ -157,14 +157,14 @@ hr{
       font-size: 0.75rem;
   }
   .facebook{
-      width: 50px;
+      width:  3.125%;
       
      
     
 
   }
   .instagram{
-      width: 50px;
+      width: 3.125%;
      
   }
  
